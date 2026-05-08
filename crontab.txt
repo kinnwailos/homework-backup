@@ -1,0 +1,2 @@
+# Ежедневно в 02:00 запуск зеркального резервного копирования
+0 2 * * * /home/vagrant/homework-backup/backup_home.sh

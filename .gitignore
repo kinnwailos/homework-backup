@@ -1,0 +1,10 @@
+.vagrant/
+squashfs-root/
+*.AppImage
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*id_rsa*
+*private_key*
