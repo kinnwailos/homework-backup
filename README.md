@@ -44,6 +44,6 @@ sudo journalctl -t backup_home -n 20 --no-pager
 
 ## Что приложить на проверку
 - скрипт
-[text](backup_home.sh)
+[backup_home.sh](backup_home.sh)
 - скриншот вывода `crontab -l` и системного лога с записью `backup_home: SUCCESS` (или `ERROR`).
 ![alt text](screens/Screenshot_2026-05-08_16-43-23.png)
